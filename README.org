@@ -1,0 +1,10 @@
+Компиляция
+#+begin_src sh
+make
+#+end_src
+
+Использование
+#+begin_src sh
+./build/bin polys.txt lines.txt
+#+end_src
+
